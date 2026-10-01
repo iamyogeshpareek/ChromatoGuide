@@ -65,4 +65,4 @@ Create a repository and upload the project files while preserving the `src/hplc_
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE). Replace `[Your Name]` in that file with the name you want to use as the copyright holder before publishing.
+This project is licensed under the MIT License. See [LICENSE](LICENSE). 
